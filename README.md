@@ -10,10 +10,13 @@
 [https://github.com/develup-official/htmlcss-s02e02](https://github.com/develup-official/htmlcss-s02e02)
 
 ## 알아보는 개념
-- padding-top을 %로
-- mediaquery의 기본 사용법
+- 레이아웃 클래스
+- 반응형웹의 목적
 - max-width
-- 반응형사이드바 두가지 방식 알아보기
+- padding-top을 %로 설정한다면?
+- Mediaquery의 기본 사용법
+- 부모와 자식간의 마진겹침을 해결하는 clearfix
+
 
 ## Dummy Text
 ```
@@ -30,7 +33,6 @@
 평생 이용
 모바일 및 TV에 대한 액세스
 수료증
-
 
 The Web Developer Bootcamp
 Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning
@@ -50,5 +52,16 @@ Note about Setting Up Front-End Developer Environment
 Additional FREE Content
 ```
 
+## Meta tag
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+
+## 도구들
+[vimeo.com](https://vimeo.com)
+[Ultimate CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/)
+
 ## 이미지 출처
 Unsplash.com
+
+
