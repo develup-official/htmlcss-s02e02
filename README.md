@@ -58,9 +58,10 @@ Additional FREE Content
 ```
 
 ## 도구들
-[vimeo.com](https://vimeo.com)
-[Ultimate CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/)
-[Screen Size](http://screensiz.es/)
+- [vimeo.com](https://vimeo.com)
+- [Ultimate CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/)
+- [Screen Size](http://screensiz.es/)
+- [div비율유지 유튜브](https://www.youtube.com/watch?v=EzSNxIo0LVo&t=621s)
 
 ## 이미지 출처
 Unsplash.com
